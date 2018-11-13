@@ -3,12 +3,13 @@ Use this file to have your raspberry pi email its IP Address to you
 
 ## Step One: Create Gmail Account
   1. You will need a gmail account to act as a sender. Create a free gmail account and remember the 
-      email and password.
+      email and password
 
 ## Step Two: Create directory and file
   1. mkdir Code && cd Code
-  2. sudo nano startup_mailer.py
+  2. sudo nano startup_mailer.py. Copy the file in the repo over
   3. enter the email you want to send to as well as the email and pasword your created
+  4. Save
   
  ## Step Thee: Add file to the boot up routine
   1. cd /etc
