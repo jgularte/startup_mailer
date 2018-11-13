@@ -11,7 +11,7 @@ Use this file to have your raspberry pi email its IP Address to you
   3. enter the email you want to send to as well as the email and pasword your created
   4. Save
   
- ## Step Thee: Add file to the boot up routine
+ ## Step Three: Add file to the boot up routine
   1. cd /etc
   2. sudo nano rc.local
   3. add this line under the print cammand in the if statement: 
